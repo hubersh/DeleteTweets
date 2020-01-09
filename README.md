@@ -2,10 +2,6 @@
 
 Delete tweets (or just replies or retweets) from your timeline, including tweets beyond the [3,200 tweet limit](https://dev.twitter.com/discussions/276).
 
-## Dependencies
-* python-twitter (`pip install python-twitter`)
-* python-dateutil (`pip install python-dateutil`)
-
 ## Setup
 1. Create a new Twitter app at https://apps.twitter.com/
 2. Get the API key and secret of the app, and assign it to `API_KEY` and `API_SECRET` respectively
